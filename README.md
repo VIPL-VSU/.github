@@ -2,6 +2,8 @@
 
 This is the official webpage of the Visual Scene Understanding (VSU) group of VIPL
 
+Chen He, Ruiping Wang, Xilin Chen. A Tale of Two CILs: The Connections between Class Incremental Learning and Class Imbalanced Learning, and Beyond. CVPR 2021 Workshop on Continual Learning [code](https://github.com/TonyPod/Two-CILs)
+
 <!--
 **VIPL-VSU/VIPL-VSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
