@@ -5,6 +5,11 @@ This is the official website of the Visual Scene Understanding group of [VIPL, I
 ## Codes
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
+_[arXiv2025]Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation_[[Paper](https://arxiv.org/pdf/2501.04268)][[Homepage](https://video2code.github.io/RoboPro-website/)]
+
+[![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)_[arXiv2024]M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models_[[Paper](https://arxiv.org/abs/2405.15638)][[Code](https://github.com/M4U-Benchmark/M4U)]
+
+[![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 _[ECCV2024]Think before Placement: Common Sense Enhanced Multi-modal Transformer for Object Placement_[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09204.pdf)][[Code](https://github.com/JiayuXu829/ThinkBeforePlacement)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)_[ECCV2024]HiFi-Score: Fine-grained Image Description Evaluation with Hierarchical Parsing Graphs_[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07957.pdf)][[Code](https://github.com/lydia7632/HiFi-Score)]
