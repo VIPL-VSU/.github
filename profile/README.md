@@ -5,7 +5,7 @@ This is the official website of the Visual Scene Understanding group of [VIPL, I
 ## Codes
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
-_[ICCV2025]OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance_[[Paper]()][[Code]()][[Homepage]()]
+_[ICCV2025]OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance_[[Paper]()][[Code](https://github.com/VIPL-VSU/OV3D-CG)][[Homepage](https://vipl-vsu.github.io/OV3D-CG/)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 _[IROS2025]Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation (oral)_[[Paper](https://arxiv.org/pdf/2501.04268)][[Homepage](https://video2code.github.io/RoboPro-website/)]
