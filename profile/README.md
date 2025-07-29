@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is the official website of the Visual Scene Understanding group of [VIPL, ICT, CAS](https://vipl.ict.ac.cn/).
+This is the official website of the [Visual Scene Understanding group](https://vipl-vsu.github.io/) of [VIPL, ICT, CAS](https://vipl.ict.ac.cn/).
 
 ## Codes
 
