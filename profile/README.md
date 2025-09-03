@@ -5,7 +5,7 @@ This is the official website of the [Visual Scene Understanding group](https://v
 ## Codes
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
-_[BMVC2025]_Catch Your Concepts: A Flexible Concept Locator for Interpretable Visual Recognition[[Paper]()][[Supp]()][[Code](https://github.com/VIPL-VSU/Loc-CBM)]
+[BMVC2025]_Catch Your Concepts: A Flexible Concept Locator for Interpretable Visual Recognition_[Paper][Supp][[Code](https://github.com/VIPL-VSU/Loc-CBM)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 _[PRL2025]Cross-Domain Few-Shot 3D Point Cloud Semantic Segmentation_[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525002533)][[Supp](https://ars.els-cdn.com/content/image/1-s2.0-S0167865525002533-mmc1.pdf)][[Code](https://github.com/VIPL-VSU/CD-FS-SSeg)]
