@@ -16,6 +16,8 @@ _[IROS2025]Robotic Programmer: Video Instructed Policy Code Generation for Robot
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 _[CVPR2025]R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner_[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_R2C_Mapping_Room_to_Chessboard_to_Unlock_LLM_As_Low-Level_CVPR_2025_paper.pdf)][[Code](https://github.com/VIPL-VSU/Room2Chessboard)][[Homepage](https://vipl-vsu.github.io/Room2Chessboard/)]
 
+_[PRL2025]UniFa: A unified feature hallucination framework for any-shot object detection_[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525000194)][[Supp](https://ars.els-cdn.com/content/image/1-s2.0-S0167865525000194-mmc1.pdf)][[Code](https://github.com/VIPL-VSU/UniFa)]
+
 _[arXiv2024]M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models_[[Paper](https://arxiv.org/abs/2405.15638)][[Code](https://github.com/M4U-Benchmark/M4U)]
 
 _[ECCV2024]Think before Placement: Common Sense Enhanced Multi-modal Transformer for Object Placement_[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09204.pdf)][[Code](https://github.com/JiayuXu829/ThinkBeforePlacement)]
