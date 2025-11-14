@@ -5,7 +5,7 @@ This is the official website of the [Visual Scene Understanding group](https://v
 ## Codes
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
-[RAL2025]_FreeMask3D: Zero-shot Point Cloud Instance Segmentation without 3D Training_[Paper][Supp][Code]
+[RAL2025]_FreeMask3D: Zero-shot Point Cloud Instance Segmentation without 3D Training_[[Paper](https://ieeexplore.ieee.org/document/11203973)][Code]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 [BMVC2025]_Catch Your Concepts: A Flexible Concept Locator for Interpretable Visual Recognition_[Paper][Supp][[Code](https://github.com/VIPL-VSU/Loc-CBM)]
@@ -14,7 +14,7 @@ This is the official website of the [Visual Scene Understanding group](https://v
 _[PRL2025]Cross-Domain Few-Shot 3D Point Cloud Semantic Segmentation_[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525002533)][[Supp](https://ars.els-cdn.com/content/image/1-s2.0-S0167865525002533-mmc1.pdf)][[Code](https://github.com/VIPL-VSU/Cross-Domain-Few-Shot-Semantic-Segmentation)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
-_[ICCV2025]OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance_[[Paper]()][[Code](https://github.com/VIPL-VSU/OV3D-CG)][[Homepage](https://vipl-vsu.github.io/OV3D-CG/)]
+_[ICCV2025]OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance_[[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_OV3D-CG_Open-vocabulary_3D_Instance_Segmentation_with_Contextual_Guidance_ICCV_2025_paper.pdf)][[Supp](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Zhou_OV3D-CG_Open-vocabulary_3D_ICCV_2025_supplemental.pdf)][[Code](https://github.com/VIPL-VSU/OV3D-CG)][[Homepage](https://vipl-vsu.github.io/OV3D-CG/)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 _[IROS2025]Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation (oral)_[[Paper](https://arxiv.org/pdf/2501.04268)][[Homepage](https://video2code.github.io/RoboPro-website/)]
