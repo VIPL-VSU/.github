@@ -19,6 +19,8 @@ _[ICCV2025]OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Gui
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 _[IROS2025]Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation (oral)_[[Paper](IROS25_0336_FI.pdf)][[Homepage](https://video2code.github.io/RoboPro-website/)]
 
+_[RAL2025]Dynamic Behavior Cloning With Temporal Feature Prediction: Enhancing Robotic Arm Manipulation in Moving Object Tasks_[[Paper](https://ieeexplore.ieee.org/document/10948321)][[Supp](https://ieeexplore.ieee.org/document/10948321/media#media)]
+
 _[CVPR2025]R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner_[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_R2C_Mapping_Room_to_Chessboard_to_Unlock_LLM_As_Low-Level_CVPR_2025_paper.pdf)][[Supp](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Bai_R2C_Mapping_Room_CVPR_2025_supplemental.pdf)][[Code](https://github.com/VIPL-VSU/Room2Chessboard)][[Homepage](https://vipl-vsu.github.io/Room2Chessboard/)]
 
 _[PRL2025]UniFa: A unified feature hallucination framework for any-shot object detection_[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525000194)][[Supp](https://ars.els-cdn.com/content/image/1-s2.0-S0167865525000194-mmc1.pdf)][[Code](https://github.com/VIPL-VSU/UniFa)]
