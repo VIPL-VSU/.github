@@ -18,7 +18,7 @@ This is the official website of the [Visual Scene Understanding group](https://v
 
 [arXiv2025]_VisKnow: Constructing Visual Knowledge Base for Object Understanding_[[Paper](https://arxiv.org/abs/2512.08221)][[Project](https://vipl-vsu.github.io/VisKnow/)]
 
-[RAL2025]_FreeMask3D: Zero-shot Point Cloud Instance Segmentation without 3D Training_[[Paper](https://ieeexplore.ieee.org/document/11203973)][Code]
+[RAL2025]_FreeMask3D: Zero-shot Point Cloud Instance Segmentation without 3D Training_[[Paper](https://ieeexplore.ieee.org/document/11203973)]
 
 [BMVC2025]_Catch Your Concepts: A Flexible Concept Locator for Interpretable Visual Recognition_[[Paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_707/paper.pdf)][[Supp](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_707/supplementary.zip)][[Video](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_707/video.mp4)][[Code](https://github.com/VIPL-VSU/Loc-CBM)]
 
