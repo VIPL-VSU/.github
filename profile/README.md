@@ -5,10 +5,10 @@ This is the official website of the [Visual Scene Understanding group](https://v
 ## Codes
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
-[ECCV2026]_Abstract the Layout, Focus the Detail: A Dual-Granularity Representation Framework for Zero-Shot 3D Visual Grounding_[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37225-3_4)]
+[ECCV2026]_Abstract the Layout, Focus the Detail: A Dual-Granularity Representation Framework for Zero-Shot 3D Visual Grounding_[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37225-3_4)][[Code](https://github.com/VIPL-VSU/DualGranularity3DVG)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
-[ECCV2026]_STEP: Spatial Thinking and Egocentric Pointing for Embodied Instruction Following_[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37602-2_14)]
+[ECCV2026]_STEP: Spatial Thinking and Egocentric Pointing for Embodied Instruction Following_[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37602-2_14)][[Code](https://github.com/VIPL-VSU/STEP)]
 
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 [RA-L2026]_GAS-Robo: Converting Scene Into a Grid-Action Space for LLM-Driven Open-Ended Robotic Manipulation_[[Paper](https://ieeexplore.ieee.org/abstract/document/11669953)]
@@ -16,7 +16,7 @@ This is the official website of the [Visual Scene Understanding group](https://v
 [![new](https://github.com/RUCAIBox/RecBole/raw/master/asset/new.gif)](https://github.com/RUCAIBox/RecBole/blob/master/asset/new.gif)
 [ICML2026]_SkillNet: Hierarchical Skill Modeling for Compositional Generalization in Vision-Language Action Models_[[Paper](https://openreview.net/forum?id=CPuJWWgka2)][[Code](https://github.com/VIPL-VSU/SkillNet)][[Project](https://vipl-vsu.github.io/skillnet-website/)]
 
-[CVPR2026]_GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting_[[Paper](https://arxiv.org/abs/2604.07728)]
+[CVPR2026]_GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting_[[Paper](https://arxiv.org/abs/2604.07728)][[Code](https://github.com/VIPL-VSU/GEAR)]
 
 [AAAI2026]_Tell as You Want: Customizing Image Narrative with Knowledge and Thoughts_[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38180)]
 
